@@ -1,0 +1,46 @@
+{
+  "name": "Serendipity Morning",
+  "appearance": "light",
+  "colors": {
+    "name": "Serendipity Morning",
+    "appearance": "light",
+    "background": "#f6f7fb",
+    "foreground": "#3f4363",
+    "surface": "#eaebee",
+    "cursor": "#6d7296",
+    "selection_bg": "#5a567018",
+    "comment": "#6d7296",
+    "accent": "#e58678",
+    "accent_fg": "#f6f7fb",
+    "muted": "#505575",
+    "syntax": {
+      "keyword": "#2f7aab",
+      "string": "#785fd0",
+      "variable": "#e58678",
+      "function": "#c25a4d",
+      "type": "#6288d8",
+      "constant": "#2f7aab",
+      "operator": "#505575",
+      "error": "#c25a4d"
+    },
+    "terminal": {
+      "black": "#ccd0dc",
+      "red": "#c25a4d",
+      "green": "#2f7aab",
+      "yellow": "#785fd0",
+      "blue": "#6288d8",
+      "magenta": "#629aa5",
+      "cyan": "#e58678",
+      "white": "#3f4363",
+      "bright_black": "#505575",
+      "bright_red": "#c25a4d",
+      "bright_green": "#2f7aab",
+      "bright_yellow": "#785fd0",
+      "bright_blue": "#6288d8",
+      "bright_magenta": "#629aa5",
+      "bright_cyan": "#e58678",
+      "bright_white": "#3f4363"
+    }
+  },
+  "usage": "Import these values as Figma color variables (Local variables \u2192 Create variable \u2192 Color)."
+}

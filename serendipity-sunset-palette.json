@@ -1,0 +1,46 @@
+{
+  "name": "Serendipity Sunset",
+  "appearance": "dark",
+  "colors": {
+    "name": "Serendipity Sunset",
+    "appearance": "dark",
+    "background": "#202231",
+    "foreground": "#dee0ef",
+    "surface": "#272938",
+    "cursor": "#d1918f",
+    "selection_bg": "#6B6D7C26",
+    "comment": "#8d8f9e",
+    "accent": "#d6b4b4",
+    "accent_fg": "#202231",
+    "muted": "#6b6d7c",
+    "syntax": {
+      "keyword": "#709bbd",
+      "string": "#a392dc",
+      "variable": "#d6b4b4",
+      "function": "#d1918f",
+      "type": "#a0b6e8",
+      "constant": "#709bbd",
+      "operator": "#6b6d7c",
+      "error": "#d1918f"
+    },
+    "terminal": {
+      "black": "#363847",
+      "red": "#d1918f",
+      "green": "#709bbd",
+      "yellow": "#a392dc",
+      "blue": "#a0b6e8",
+      "magenta": "#aac9d4",
+      "cyan": "#d6b4b4",
+      "white": "#dee0ef",
+      "bright_black": "#6b6d7c",
+      "bright_red": "#d1918f",
+      "bright_green": "#709bbd",
+      "bright_yellow": "#a392dc",
+      "bright_blue": "#a0b6e8",
+      "bright_magenta": "#aac9d4",
+      "bright_cyan": "#d6b4b4",
+      "bright_white": "#dee0ef"
+    }
+  },
+  "usage": "Import these values as Figma color variables (Local variables \u2192 Create variable \u2192 Color)."
+}
